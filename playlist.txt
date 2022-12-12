@@ -9,3 +9,5 @@ Song3 - Artist3
 Song4 - Artist4
 Song6 - Artist6
 Song5 - Artist5
+Song7 - Artist7
+Song8 - Artist8
